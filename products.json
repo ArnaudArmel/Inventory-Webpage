@@ -1,0 +1,902 @@
+[
+  {
+    "id": "001",
+    "name": "Red Apples",
+    "category": "Fruit",
+    "price": 4.49,
+    "stock": 32,
+    "unit": "1 kg bag",
+    "image": "images/001.svg"
+  },
+  {
+    "id": "002",
+    "name": "Green Apples",
+    "category": "Fruit",
+    "price": 4.79,
+    "stock": 18,
+    "unit": "1 kg bag",
+    "image": "images/002.svg"
+  },
+  {
+    "id": "003",
+    "name": "Bananas",
+    "category": "Fruit",
+    "price": 2.29,
+    "stock": 46,
+    "unit": "1 bunch",
+    "image": "images/003.svg"
+  },
+  {
+    "id": "004",
+    "name": "Navel Oranges",
+    "category": "Fruit",
+    "price": 5.49,
+    "stock": 25,
+    "unit": "1 kg bag",
+    "image": "images/004.svg"
+  },
+  {
+    "id": "005",
+    "name": "Lemons",
+    "category": "Fruit",
+    "price": 2.99,
+    "stock": 0,
+    "unit": "3 pack",
+    "image": "images/005.svg"
+  },
+  {
+    "id": "006",
+    "name": "Strawberries",
+    "category": "Fruit",
+    "price": 5.99,
+    "stock": 14,
+    "unit": "454 g box",
+    "image": "images/006.svg"
+  },
+  {
+    "id": "007",
+    "name": "Blueberries",
+    "category": "Fruit",
+    "price": 3.99,
+    "stock": 21,
+    "unit": "170 g box",
+    "image": "images/007.svg"
+  },
+  {
+    "id": "008",
+    "name": "Green Grapes",
+    "category": "Fruit",
+    "price": 6.49,
+    "stock": 17,
+    "unit": "750 g bag",
+    "image": "images/008.svg"
+  },
+  {
+    "id": "009",
+    "name": "Watermelon",
+    "category": "Fruit",
+    "price": 8.99,
+    "stock": 8,
+    "unit": "1 whole",
+    "image": "images/009.svg"
+  },
+  {
+    "id": "010",
+    "name": "Pineapple",
+    "category": "Fruit",
+    "price": 4.99,
+    "stock": 11,
+    "unit": "1 whole",
+    "image": "images/010.svg"
+  },
+  {
+    "id": "011",
+    "name": "Carrots",
+    "category": "Vegetables",
+    "price": 2.99,
+    "stock": 37,
+    "unit": "907 g bag",
+    "image": "images/011.svg"
+  },
+  {
+    "id": "012",
+    "name": "Broccoli",
+    "category": "Vegetables",
+    "price": 2.49,
+    "stock": 19,
+    "unit": "1 crown",
+    "image": "images/012.svg"
+  },
+  {
+    "id": "013",
+    "name": "Potatoes",
+    "category": "Vegetables",
+    "price": 5.99,
+    "stock": 29,
+    "unit": "2.27 kg bag",
+    "image": "images/013.svg"
+  },
+  {
+    "id": "014",
+    "name": "Yellow Onions",
+    "category": "Vegetables",
+    "price": 3.49,
+    "stock": 24,
+    "unit": "907 g bag",
+    "image": "images/014.svg"
+  },
+  {
+    "id": "015",
+    "name": "Red Bell Peppers",
+    "category": "Vegetables",
+    "price": 4.99,
+    "stock": 13,
+    "unit": "3 pack",
+    "image": "images/015.svg"
+  },
+  {
+    "id": "016",
+    "name": "Cucumber",
+    "category": "Vegetables",
+    "price": 1.79,
+    "stock": 0,
+    "unit": "1 whole",
+    "image": "images/016.svg"
+  },
+  {
+    "id": "017",
+    "name": "Tomatoes",
+    "category": "Vegetables",
+    "price": 3.99,
+    "stock": 28,
+    "unit": "4 pack",
+    "image": "images/017.svg"
+  },
+  {
+    "id": "018",
+    "name": "Spinach",
+    "category": "Vegetables",
+    "price": 3.49,
+    "stock": 16,
+    "unit": "142 g bag",
+    "image": "images/018.svg"
+  },
+  {
+    "id": "019",
+    "name": "Sweet Corn",
+    "category": "Vegetables",
+    "price": 4.49,
+    "stock": 22,
+    "unit": "4 ears",
+    "image": "images/019.svg"
+  },
+  {
+    "id": "020",
+    "name": "Button Mushrooms",
+    "category": "Vegetables",
+    "price": 2.99,
+    "stock": 12,
+    "unit": "227 g box",
+    "image": "images/020.svg"
+  },
+  {
+    "id": "021",
+    "name": "Whole Wheat Bread",
+    "category": "Bakery",
+    "price": 3.79,
+    "stock": 24,
+    "unit": "675 g loaf",
+    "image": "images/021.svg"
+  },
+  {
+    "id": "022",
+    "name": "White Sandwich Bread",
+    "category": "Bakery",
+    "price": 3.49,
+    "stock": 31,
+    "unit": "675 g loaf",
+    "image": "images/022.svg"
+  },
+  {
+    "id": "023",
+    "name": "Butter Croissants",
+    "category": "Bakery",
+    "price": 5.99,
+    "stock": 8,
+    "unit": "4 pack",
+    "image": "images/023.svg"
+  },
+  {
+    "id": "024",
+    "name": "Blueberry Muffins",
+    "category": "Bakery",
+    "price": 6.49,
+    "stock": 15,
+    "unit": "4 pack",
+    "image": "images/024.svg"
+  },
+  {
+    "id": "025",
+    "name": "Chocolate Chip Cookies",
+    "category": "Bakery",
+    "price": 4.99,
+    "stock": 27,
+    "unit": "12 pack",
+    "image": "images/025.svg"
+  },
+  {
+    "id": "026",
+    "name": "Cinnamon Rolls",
+    "category": "Bakery",
+    "price": 6.99,
+    "stock": 0,
+    "unit": "6 pack",
+    "image": "images/026.svg"
+  },
+  {
+    "id": "027",
+    "name": "Plain Bagels",
+    "category": "Bakery",
+    "price": 3.99,
+    "stock": 20,
+    "unit": "6 pack",
+    "image": "images/027.svg"
+  },
+  {
+    "id": "028",
+    "name": "Pita Bread",
+    "category": "Bakery",
+    "price": 3.29,
+    "stock": 14,
+    "unit": "6 pack",
+    "image": "images/028.svg"
+  },
+  {
+    "id": "029",
+    "name": "Chocolate Cake",
+    "category": "Bakery",
+    "price": 12.99,
+    "stock": 5,
+    "unit": "1 small cake",
+    "image": "images/029.svg"
+  },
+  {
+    "id": "030",
+    "name": "Oat Crackers",
+    "category": "Bakery",
+    "price": 2.79,
+    "stock": 33,
+    "unit": "200 g box",
+    "image": "images/030.svg"
+  },
+  {
+    "id": "031",
+    "name": "Whole Milk",
+    "category": "Dairy and Eggs",
+    "price": 4.99,
+    "stock": 38,
+    "unit": "2 L carton",
+    "image": "images/031.svg"
+  },
+  {
+    "id": "032",
+    "name": "Skim Milk",
+    "category": "Dairy and Eggs",
+    "price": 4.79,
+    "stock": 23,
+    "unit": "2 L carton",
+    "image": "images/032.svg"
+  },
+  {
+    "id": "033",
+    "name": "Plain Yogurt",
+    "category": "Dairy and Eggs",
+    "price": 4.49,
+    "stock": 17,
+    "unit": "750 g tub",
+    "image": "images/033.svg"
+  },
+  {
+    "id": "034",
+    "name": "Strawberry Yogurt",
+    "category": "Dairy and Eggs",
+    "price": 4.99,
+    "stock": 12,
+    "unit": "650 g tub",
+    "image": "images/034.svg"
+  },
+  {
+    "id": "035",
+    "name": "Cheddar Cheese",
+    "category": "Dairy and Eggs",
+    "price": 6.99,
+    "stock": 26,
+    "unit": "400 g block",
+    "image": "images/035.svg"
+  },
+  {
+    "id": "036",
+    "name": "Mozzarella Cheese",
+    "category": "Dairy and Eggs",
+    "price": 6.49,
+    "stock": 18,
+    "unit": "400 g block",
+    "image": "images/036.svg"
+  },
+  {
+    "id": "037",
+    "name": "Salted Butter",
+    "category": "Dairy and Eggs",
+    "price": 5.49,
+    "stock": 21,
+    "unit": "454 g block",
+    "image": "images/037.svg"
+  },
+  {
+    "id": "038",
+    "name": "Large Eggs",
+    "category": "Dairy and Eggs",
+    "price": 4.29,
+    "stock": 0,
+    "unit": "12 pack",
+    "image": "images/038.svg"
+  },
+  {
+    "id": "039",
+    "name": "Cottage Cheese",
+    "category": "Dairy and Eggs",
+    "price": 4.79,
+    "stock": 11,
+    "unit": "500 g tub",
+    "image": "images/039.svg"
+  },
+  {
+    "id": "040",
+    "name": "Cooking Cream",
+    "category": "Dairy and Eggs",
+    "price": 3.99,
+    "stock": 16,
+    "unit": "473 mL carton",
+    "image": "images/040.svg"
+  },
+  {
+    "id": "041",
+    "name": "Long Grain Rice",
+    "category": "Pantry",
+    "price": 5.99,
+    "stock": 42,
+    "unit": "2 kg bag",
+    "image": "images/041.svg"
+  },
+  {
+    "id": "042",
+    "name": "Spaghetti",
+    "category": "Pantry",
+    "price": 1.99,
+    "stock": 36,
+    "unit": "500 g pack",
+    "image": "images/042.svg"
+  },
+  {
+    "id": "043",
+    "name": "Rolled Oats",
+    "category": "Pantry",
+    "price": 3.79,
+    "stock": 28,
+    "unit": "1 kg bag",
+    "image": "images/043.svg"
+  },
+  {
+    "id": "044",
+    "name": "All Purpose Flour",
+    "category": "Pantry",
+    "price": 4.49,
+    "stock": 19,
+    "unit": "2.5 kg bag",
+    "image": "images/044.svg"
+  },
+  {
+    "id": "045",
+    "name": "Granulated Sugar",
+    "category": "Pantry",
+    "price": 3.99,
+    "stock": 30,
+    "unit": "2 kg bag",
+    "image": "images/045.svg"
+  },
+  {
+    "id": "046",
+    "name": "Canned Chickpeas",
+    "category": "Pantry",
+    "price": 1.79,
+    "stock": 45,
+    "unit": "540 mL can",
+    "image": "images/046.svg"
+  },
+  {
+    "id": "047",
+    "name": "Tomato Soup",
+    "category": "Pantry",
+    "price": 1.49,
+    "stock": 34,
+    "unit": "284 mL can",
+    "image": "images/047.svg"
+  },
+  {
+    "id": "048",
+    "name": "Peanut Butter",
+    "category": "Pantry",
+    "price": 4.99,
+    "stock": 0,
+    "unit": "500 g jar",
+    "image": "images/048.svg"
+  },
+  {
+    "id": "049",
+    "name": "Strawberry Jam",
+    "category": "Pantry",
+    "price": 3.99,
+    "stock": 22,
+    "unit": "375 mL jar",
+    "image": "images/049.svg"
+  },
+  {
+    "id": "050",
+    "name": "Olive Oil",
+    "category": "Pantry",
+    "price": 9.99,
+    "stock": 13,
+    "unit": "750 mL bottle",
+    "image": "images/050.svg"
+  },
+  {
+    "id": "051",
+    "name": "Frozen Peas",
+    "category": "Frozen Food",
+    "price": 3.49,
+    "stock": 25,
+    "unit": "750 g bag",
+    "image": "images/051.svg"
+  },
+  {
+    "id": "052",
+    "name": "Mixed Vegetables",
+    "category": "Frozen Food",
+    "price": 3.99,
+    "stock": 32,
+    "unit": "750 g bag",
+    "image": "images/052.svg"
+  },
+  {
+    "id": "053",
+    "name": "Frozen Blueberries",
+    "category": "Frozen Food",
+    "price": 5.99,
+    "stock": 16,
+    "unit": "600 g bag",
+    "image": "images/053.svg"
+  },
+  {
+    "id": "054",
+    "name": "Vanilla Ice Cream",
+    "category": "Frozen Food",
+    "price": 6.49,
+    "stock": 20,
+    "unit": "1.5 L tub",
+    "image": "images/054.svg"
+  },
+  {
+    "id": "055",
+    "name": "Cheese Pizza",
+    "category": "Frozen Food",
+    "price": 5.99,
+    "stock": 14,
+    "unit": "350 g box",
+    "image": "images/055.svg"
+  },
+  {
+    "id": "056",
+    "name": "Vegetable Dumplings",
+    "category": "Frozen Food",
+    "price": 7.49,
+    "stock": 9,
+    "unit": "600 g bag",
+    "image": "images/056.svg"
+  },
+  {
+    "id": "057",
+    "name": "Potato Fries",
+    "category": "Frozen Food",
+    "price": 3.79,
+    "stock": 27,
+    "unit": "900 g bag",
+    "image": "images/057.svg"
+  },
+  {
+    "id": "058",
+    "name": "Frozen Waffles",
+    "category": "Frozen Food",
+    "price": 3.99,
+    "stock": 0,
+    "unit": "8 pack",
+    "image": "images/058.svg"
+  },
+  {
+    "id": "059",
+    "name": "Mango Chunks",
+    "category": "Frozen Food",
+    "price": 5.49,
+    "stock": 18,
+    "unit": "600 g bag",
+    "image": "images/059.svg"
+  },
+  {
+    "id": "060",
+    "name": "Fruit Ice Pops",
+    "category": "Frozen Food",
+    "price": 4.99,
+    "stock": 23,
+    "unit": "10 pack",
+    "image": "images/060.svg"
+  },
+  {
+    "id": "061",
+    "name": "Orange Juice",
+    "category": "Beverages",
+    "price": 4.49,
+    "stock": 24,
+    "unit": "1.75 L carton",
+    "image": "images/061.svg"
+  },
+  {
+    "id": "062",
+    "name": "Apple Juice",
+    "category": "Beverages",
+    "price": 3.99,
+    "stock": 29,
+    "unit": "1.75 L carton",
+    "image": "images/062.svg"
+  },
+  {
+    "id": "063",
+    "name": "Sparkling Water",
+    "category": "Beverages",
+    "price": 4.99,
+    "stock": 38,
+    "unit": "6 x 355 mL cans",
+    "image": "images/063.svg"
+  },
+  {
+    "id": "064",
+    "name": "Still Water",
+    "category": "Beverages",
+    "price": 1.29,
+    "stock": 50,
+    "unit": "1.5 L bottle",
+    "image": "images/064.svg"
+  },
+  {
+    "id": "065",
+    "name": "Ground Coffee",
+    "category": "Beverages",
+    "price": 8.99,
+    "stock": 17,
+    "unit": "340 g bag",
+    "image": "images/065.svg"
+  },
+  {
+    "id": "066",
+    "name": "Black Tea",
+    "category": "Beverages",
+    "price": 3.49,
+    "stock": 21,
+    "unit": "40 tea bags",
+    "image": "images/066.svg"
+  },
+  {
+    "id": "067",
+    "name": "Peppermint Tea",
+    "category": "Beverages",
+    "price": 3.99,
+    "stock": 14,
+    "unit": "20 tea bags",
+    "image": "images/067.svg"
+  },
+  {
+    "id": "068",
+    "name": "Hot Chocolate Mix",
+    "category": "Beverages",
+    "price": 5.49,
+    "stock": 0,
+    "unit": "500 g tin",
+    "image": "images/068.svg"
+  },
+  {
+    "id": "069",
+    "name": "Lemonade",
+    "category": "Beverages",
+    "price": 2.99,
+    "stock": 19,
+    "unit": "1 L bottle",
+    "image": "images/069.svg"
+  },
+  {
+    "id": "070",
+    "name": "Oat Drink",
+    "category": "Beverages",
+    "price": 3.79,
+    "stock": 26,
+    "unit": "1 L carton",
+    "image": "images/070.svg"
+  },
+  {
+    "id": "071",
+    "name": "Dishwashing Liquid",
+    "category": "Cleaning Supplies",
+    "price": 3.49,
+    "stock": 31,
+    "unit": "750 mL bottle",
+    "image": "images/071.svg"
+  },
+  {
+    "id": "072",
+    "name": "Laundry Detergent",
+    "category": "Cleaning Supplies",
+    "price": 9.99,
+    "stock": 18,
+    "unit": "1.5 L bottle",
+    "image": "images/072.svg"
+  },
+  {
+    "id": "073",
+    "name": "All Purpose Cleaner",
+    "category": "Cleaning Supplies",
+    "price": 4.29,
+    "stock": 23,
+    "unit": "650 mL spray",
+    "image": "images/073.svg"
+  },
+  {
+    "id": "074",
+    "name": "Glass Cleaner",
+    "category": "Cleaning Supplies",
+    "price": 3.99,
+    "stock": 16,
+    "unit": "650 mL spray",
+    "image": "images/074.svg"
+  },
+  {
+    "id": "075",
+    "name": "Cleaning Sponges",
+    "category": "Cleaning Supplies",
+    "price": 2.49,
+    "stock": 40,
+    "unit": "4 pack",
+    "image": "images/075.svg"
+  },
+  {
+    "id": "076",
+    "name": "Microfibre Cloths",
+    "category": "Cleaning Supplies",
+    "price": 4.49,
+    "stock": 28,
+    "unit": "3 pack",
+    "image": "images/076.svg"
+  },
+  {
+    "id": "077",
+    "name": "Disinfecting Wipes",
+    "category": "Cleaning Supplies",
+    "price": 5.99,
+    "stock": 0,
+    "unit": "75 count tub",
+    "image": "images/077.svg"
+  },
+  {
+    "id": "078",
+    "name": "Scrub Brush",
+    "category": "Cleaning Supplies",
+    "price": 3.29,
+    "stock": 22,
+    "unit": "1 brush",
+    "image": "images/078.svg"
+  },
+  {
+    "id": "079",
+    "name": "Floor Cleaner",
+    "category": "Cleaning Supplies",
+    "price": 5.49,
+    "stock": 15,
+    "unit": "1 L bottle",
+    "image": "images/079.svg"
+  },
+  {
+    "id": "080",
+    "name": "Rubber Gloves",
+    "category": "Cleaning Supplies",
+    "price": 2.99,
+    "stock": 35,
+    "unit": "1 pair",
+    "image": "images/080.svg"
+  },
+  {
+    "id": "081",
+    "name": "Paper Towels",
+    "category": "Household Essentials",
+    "price": 4.99,
+    "stock": 24,
+    "unit": "2 rolls",
+    "image": "images/081.svg"
+  },
+  {
+    "id": "082",
+    "name": "Toilet Tissue",
+    "category": "Household Essentials",
+    "price": 8.49,
+    "stock": 32,
+    "unit": "12 rolls",
+    "image": "images/082.svg"
+  },
+  {
+    "id": "083",
+    "name": "Garbage Bags",
+    "category": "Household Essentials",
+    "price": 5.99,
+    "stock": 27,
+    "unit": "30 bags",
+    "image": "images/083.svg"
+  },
+  {
+    "id": "084",
+    "name": "Aluminium Foil",
+    "category": "Household Essentials",
+    "price": 3.49,
+    "stock": 19,
+    "unit": "15 m roll",
+    "image": "images/084.svg"
+  },
+  {
+    "id": "085",
+    "name": "Food Storage Containers",
+    "category": "Household Essentials",
+    "price": 7.99,
+    "stock": 14,
+    "unit": "3 piece set",
+    "image": "images/085.svg"
+  },
+  {
+    "id": "086",
+    "name": "Wooden Hangers",
+    "category": "Household Essentials",
+    "price": 6.49,
+    "stock": 21,
+    "unit": "5 pack",
+    "image": "images/086.svg"
+  },
+  {
+    "id": "087",
+    "name": "Laundry Basket",
+    "category": "Household Essentials",
+    "price": 12.99,
+    "stock": 8,
+    "unit": "1 basket",
+    "image": "images/087.svg"
+  },
+  {
+    "id": "088",
+    "name": "LED Light Bulbs",
+    "category": "Household Essentials",
+    "price": 8.99,
+    "stock": 0,
+    "unit": "4 pack",
+    "image": "images/088.svg"
+  },
+  {
+    "id": "089",
+    "name": "Kitchen Towels",
+    "category": "Household Essentials",
+    "price": 5.49,
+    "stock": 17,
+    "unit": "2 pack",
+    "image": "images/089.svg"
+  },
+  {
+    "id": "090",
+    "name": "Reusable Shopping Bag",
+    "category": "Household Essentials",
+    "price": 2.49,
+    "stock": 45,
+    "unit": "1 bag",
+    "image": "images/090.svg"
+  },
+  {
+    "id": "091",
+    "name": "Two Slice Toaster",
+    "category": "Small Appliances",
+    "price": 29.99,
+    "stock": 12,
+    "unit": "1 appliance",
+    "image": "images/091.svg"
+  },
+  {
+    "id": "092",
+    "name": "Electric Kettle",
+    "category": "Small Appliances",
+    "price": 34.99,
+    "stock": 9,
+    "unit": "1.7 L appliance",
+    "image": "images/092.svg"
+  },
+  {
+    "id": "093",
+    "name": "Countertop Blender",
+    "category": "Small Appliances",
+    "price": 49.99,
+    "stock": 7,
+    "unit": "1.5 L appliance",
+    "image": "images/093.svg"
+  },
+  {
+    "id": "094",
+    "name": "Hand Mixer",
+    "category": "Small Appliances",
+    "price": 27.99,
+    "stock": 11,
+    "unit": "1 appliance",
+    "image": "images/094.svg"
+  },
+  {
+    "id": "095",
+    "name": "Rice Cooker",
+    "category": "Small Appliances",
+    "price": 44.99,
+    "stock": 6,
+    "unit": "6 cup appliance",
+    "image": "images/095.svg"
+  },
+  {
+    "id": "096",
+    "name": "Drip Coffee Maker",
+    "category": "Small Appliances",
+    "price": 39.99,
+    "stock": 0,
+    "unit": "10 cup appliance",
+    "image": "images/096.svg"
+  },
+  {
+    "id": "097",
+    "name": "Mini Food Processor",
+    "category": "Small Appliances",
+    "price": 32.99,
+    "stock": 8,
+    "unit": "3 cup appliance",
+    "image": "images/097.svg"
+  },
+  {
+    "id": "098",
+    "name": "Electric Griddle",
+    "category": "Small Appliances",
+    "price": 45.99,
+    "stock": 5,
+    "unit": "1 appliance",
+    "image": "images/098.svg"
+  },
+  {
+    "id": "099",
+    "name": "Sandwich Press",
+    "category": "Small Appliances",
+    "price": 36.99,
+    "stock": 10,
+    "unit": "1 appliance",
+    "image": "images/099.svg"
+  },
+  {
+    "id": "100",
+    "name": "Compact Microwave",
+    "category": "Small Appliances",
+    "price": 89.99,
+    "stock": 4,
+    "unit": "20 L appliance",
+    "image": "images/100.svg"
+  }
+]

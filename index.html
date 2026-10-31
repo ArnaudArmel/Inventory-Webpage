@@ -1,0 +1,107 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Inventory</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+
+    <header>
+        <h1>Product Inventory</h1>
+        <p>Search and filter the available products.</p>
+    </header>
+
+    <main>
+
+ 
+<section class="filters">
+    <h2>Filters</h2>
+
+    <div class="filter-row">
+        <div class="filter-group">
+            <label for="searchInput">Search by product name:</label>
+            <input
+                type="text"
+                id="searchInput"
+                placeholder="Enter a product name"
+            >
+        </div>
+
+        <div class="filter-group">
+            <label for="categoryFilter">Category:</label>
+            <select id="categoryFilter">
+                <option value="all">All categories</option>
+            </select>
+        </div>
+
+        <div class="filter-group stock-group">
+            <label>
+                <input type="checkbox" id="stockFilter">
+                Show only products in stock
+            </label>
+        </div>
+    </div>
+
+    <div class="filter-row">
+        <div class="filter-group page-size-control">
+            <label for="productPerPageSelect">Products per page:</label>
+            <select id="productPerPageSelect">
+                <option value="5" selected>5</option>
+                <option value="10">10</option>
+                <option value="20">20</option>
+            </select>
+        </div>
+
+        <button id="clearButton" type="button">Clear filters</button>
+    </div>
+</section>
+
+        <section class="inventory">
+            <h2>Products</h2>
+
+            <p id="loadingMessage">Loading products...</p>
+            <p id="errorMessage" hidden></p>
+            <p id="resultsMessage"></p>
+
+             <
+
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Image</th>
+                            <th>Name</th>
+                            <th>Category</th>
+                            <th>Price</th>
+                            <th>Stock</th>
+                            <th>Package / Unit</th>
+                        </tr>
+                    </thead>
+                    <tbody id="productTableBody">
+                    </tbody>
+                </table>
+            </div>
+           
+
+            <div class="pagination">
+                <button id="previousButton" type="button" disabled>
+                    Previous
+                </button>
+
+                <span id="pageInfo">Page 0 of 0</span>
+
+                <button id="nextButton" type="button" disabled>
+                    Next
+                </button>
+            </div>
+
+        </section>
+
+    </main>
+
+</body>
+</html>
