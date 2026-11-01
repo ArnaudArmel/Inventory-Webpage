@@ -13,8 +13,8 @@ const previousButton = document.getElementById("previousButton");
 const nextButton = document.getElementById("nextButton");
 const pageInfo = document.getElementById("pageInfo");
 
-const productsPerPageSelect =
-    document.getElementById("productsPerPageSelect");
+const productPerPageSelect =
+    document.getElementById("productPerPageSelect");
 
 let allProducts = [];
 let currentPage = 1;
